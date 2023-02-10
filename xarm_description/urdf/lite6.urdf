@@ -7,7 +7,7 @@
   <link name="link_base">
     <collision name="collision">
       <geometry>
-        <mesh filename="package://abb_irb6600_support/meshes/irb6640/collision/base_link.stl"/>
+        <mesh filename="package://xarm_description/meshes/lite6/collision/base_link.stl"/>
       </geometry>
       <material name="yellow">
         <color rgba="0 1 1 1"/>
